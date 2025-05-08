@@ -1,8 +1,9 @@
-<h2 align="left">Oi Dev 👩🏻‍💻 </h2>
+<h2 align="center">System.out.println("welcome, dev! My name is Julia");
+ 👩🏻‍💻 </h2>
+<p align="center">
+  <img src="https://media1.tenor.com/m/GD9UKMwnxYIAAAAd/ngoding-mulu.gif" width="500" />
+</p>
 
-###
-
-<p align="left">My name is Julia.</p>
 
 ###
 
@@ -10,7 +11,9 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">🔭 Apaixonada por tecnologia e criação de bugs. <br> 
+⛽ Movida por energético, curiosidade e desafios que não sei resolver (aindaRs) <br>
+💡 Filosofia de vida: "Aprender é hackear o desconhecimento"<br> 📚 Study: Análise e Desenvolvimento de Sistemas 2/4 ...<br>🎯 Aprendendo o que ainda não sei — e reaprendendo o que achava que sabia. <br></p>
 
 ###
 
@@ -35,11 +38,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
 </div>
 
@@ -69,6 +72,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=najuferreira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+###
 <h2 align="left"> 📥 Contate-me </h2>
 
 <div align="left">
