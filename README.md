@@ -1,8 +1,8 @@
-##👩🏼‍💻 Olá devs! 
+#👩🏼‍💻 Olá devs! 
 
-##🚀 Sobre mim
-xxx
-## 🛠️Tecnologias 
+#🚀 Sobre mim
+
+#🛠️Tecnologias 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
@@ -22,8 +22,6 @@ xxx
 </div>
 
 <div>
-<a href="https://github.com/najuferreira">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najuferreira&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=najuferreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
