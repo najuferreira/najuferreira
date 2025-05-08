@@ -89,9 +89,10 @@
 </div>
 
 
-###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/najuferreira/najuferreira/output/snake.svg" alt="Snake animation" />
+
 
 
