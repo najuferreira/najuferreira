@@ -1,8 +1,8 @@
 #👩🏼‍💻 Olá devs! 
 
-#🚀 Sobre mim
+##🚀 Sobre mim
 
-#🛠️Tecnologias 
+## 📥Contato
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
@@ -21,6 +21,7 @@
 <a href = "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+## 🎢 Estatistícas
 <div>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=najuferreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
