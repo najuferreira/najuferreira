@@ -1,6 +1,4 @@
-## Olá devs! 
-
-
+##👩🏼‍💻 Olá devs! 
 
 ##🚀 Sobre mim
 xxx
