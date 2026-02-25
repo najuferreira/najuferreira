@@ -13,7 +13,7 @@
 
 <p align="left">🔭 Apaixonada por tecnologia e criação de bugs. <br> 
 ⛽ Movida por energético, curiosidade e desafios que não sei resolver (aindaRs) <br>
-💡 Filosofia de vida: "Aprender é hackear o desconhecimento"<br> 📚 Study: Análise e Desenvolvimento de Sistemas 3/4 ...<br>🎯 Aprendendo o que ainda não sei — e reaprendendo o que achava que sabia. <br></p>
+💡 Filosofia de vida: "Aprender é hackear o desconhecimento"<br> 📚 Study: Análise e Desenvolvimento de Sistemas 4/5 ...<br>🎯 Aprendendo o que ainda não sei — e reaprendendo o que achava que sabia. <br></p>
 
 ###
 
